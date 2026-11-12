@@ -3,8 +3,6 @@
 **Tools:** SQL (SQLite, written to work in BigQuery with small changes) · Tableau Public · Python (pandas, matplotlib) · Excel-style financial ratios
 **Data:** Alphabet Form 10-K filings from SEC EDGAR, 7 fiscal years, all figures in $ millions
 
-🔗 **Interactive dashboard:** [Tableau Public link — add after publishing]
-
 ---
 
 ## The business question
@@ -102,4 +100,4 @@ python scripts/make_charts.py
 ## About this project
 I chose the questions, checked the figures against the 10-K filings, and built the Tableau dashboard. I used Claude Code (an AI coding assistant) to help write the Python scripts and draft SQL, then reviewed and ran every query myself.
 
-**Trupti** · B.A. Psychology & Mathematics, University of Minnesota · [LinkedIn — add link]
+**Trupti** · B.A. Psychology & Mathematics, University of Minnesota · www.linkedin.com/in/trupti-singh-ab8973292
