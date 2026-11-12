@@ -1,0 +1,37 @@
+fiscal_year,revenue_line,revenue_musd,prior_year_musd,yoy_growth_pct
+2020,Google Cloud,13059,8918,46.4
+2021,Google Cloud,19206,13059,47.1
+2022,Google Cloud,26280,19206,36.8
+2023,Google Cloud,33088,26280,25.9
+2024,Google Cloud,43229,33088,30.6
+2025,Google Cloud,58705,43229,35.8
+2020,Google Network,23090,21547,7.2
+2021,Google Network,31701,23090,37.3
+2022,Google Network,32780,31701,3.4
+2023,Google Network,31312,32780,-4.5
+2024,Google Network,30359,31312,-3.0
+2025,Google Network,29792,30359,-1.9
+2020,Google Search & other,104062,98115,6.1
+2021,Google Search & other,148951,104062,43.1
+2022,Google Search & other,162450,148951,9.1
+2023,Google Search & other,175033,162450,7.7
+2024,Google Search & other,198084,175033,13.2
+2025,Google Search & other,224532,198084,13.4
+2020,"Google subscriptions, platforms, and devices",21711,17014,27.6
+2021,"Google subscriptions, platforms, and devices",28032,21711,29.1
+2022,"Google subscriptions, platforms, and devices",29055,28032,3.6
+2023,"Google subscriptions, platforms, and devices",34688,29055,19.4
+2024,"Google subscriptions, platforms, and devices",40340,34688,16.3
+2025,"Google subscriptions, platforms, and devices",48030,40340,19.1
+2020,Other Bets,657,659,-0.3
+2021,Other Bets,753,657,14.6
+2022,Other Bets,1068,753,41.8
+2023,Other Bets,1527,1068,43.0
+2024,Other Bets,1648,1527,7.9
+2025,Other Bets,1537,1648,-6.7
+2020,YouTube ads,19772,15149,30.5
+2021,YouTube ads,28845,19772,45.9
+2022,YouTube ads,29243,28845,1.4
+2023,YouTube ads,31510,29243,7.8
+2024,YouTube ads,36147,31510,14.7
+2025,YouTube ads,40367,36147,11.7
